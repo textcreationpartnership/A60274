@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration unto all, both priests and people first to the priests that they may read themselves and see their shame, secondly that people may know their bondage and to whom they are in bondage to / by William Stymson.</title>
+            <author>Simpson, William, 1627?-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60274</idno>
+            <idno type="STC">Wing S3841</idno>
+            <idno type="STC">ESTC R26241</idno>
+            <idno type="EEBO-CITATION">09398760</idno>
+            <idno type="OCLC">ocm 09398760</idno>
+            <idno type="VID">42971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42971)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1315:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration unto all, both priests and people first to the priests that they may read themselves and see their shame, secondly that people may know their bondage and to whom they are in bondage to / by William Stymson.</title>
+                  <author>Simpson, William, 1627?-1671.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42971:1"/>
+            <pb facs="tcp:42971:1"/>
+            <p>A DECLARATION UNTO ALL, BOTH PRIESTS AND PEOPLE.</p>
+            <list>
+               <item>Firſt, To the Prieſts, that they may read themſelves, and ſee their ſhame.</item>
+               <item>Secondly, That people may know their Bon<g ref="char:EOLhyphen"/>dage, and to whom they are in bondage to.</item>
+            </list>
+            <q>
+               <p>A wonderful and horrible thing is committed in the Land; the Prophets propheſy falſly, and the Prieſts bear rule by their means, and my people love to have it ſo: and what will ye do in the end thereof?</p>
+               <bibl>Jer. 5.30, 31.</bibl>
+            </q>
+            <q>
+               <p>For the ſins of her Prophets, and the iniquities of her Prieſts that have ſhed the blood of the juſt in the midſt of her,</p>
+               <p>They have wandered as blind men in the ſtreets, they have pol<g ref="char:EOLhyphen"/>luted themſelves with blood, ſo that men could not touch their garments.</p>
+               <bibl>Lam. 4.13, 14.</bibl>
+            </q>
+            <p>By one <hi>William Stymſon</hi> who is ſcornfully called a <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uaker.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert</hi> at the <hi>Black-Spread-Eagle</hi> at the Weſt-end of <hi>Pauls,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42971:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:42971:2"/>
+            <head>A Declaration unto all, both Prieſts and People.</head>
+            <p>ONe thing lies in my ſpirit which is a great burden unto me; therefore I cannot but ſpeak a word or two more unto you my fellow-creatures. O you poor people of <hi>England,</hi> my ſoul is ſore troubled for you, becauſe you are made ſlaves and bondmen to the wiſdom of the fleſh! <hi>My heart within me is broken, becauſe of the Prophets, that hath ſcat<g ref="char:EOLhyphen"/>tered my flock, and hath not viſited them ſaith the Lord,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 23.2.9.</note> 
+               <hi>Jer.</hi> 23.2, 9. <hi>They ſpeak a viſion of their own hearts, not from the mouth of the Lord.</hi> v. 16. <hi>They ſay ſtill to him that deſpiſeth me, the Lord hath ſaid ye ſhall have peace: and to him that walketh after the imaginations of his own heart, no evil ſhall come upon you,</hi> ver. 17. <hi>The Prophets are the Task-maſters of Egypt, and are ſer<g ref="char:EOLhyphen"/>vants to the King of Egypt, who is King of darkneſs, they lay heavy burdens upon you, they make you make brick, and gather the ſtraw your ſelves.</hi> Exod. 5.6, 7.<note place="margin">
+                  <hi>Exod.</hi> 5.6, 7.</note> 
+               <hi>They lay heavy burdens up<g ref="char:EOLhyphen"/>on mens ſhoulders that are grievous to be borne, and will not help with one of their ſingers:</hi> they cry out againſt men if they will not hear them preach, then they are fallen away from God, and from grace, are men of errors, charging the people they ſhould have no ſociety, or communion with any of thoſe that cannot ſubmit to their humane teachings; they lay heavy burthens upon their own hea<g ref="char:EOLhyphen"/>rers, telling them they muſt be much in prayer, and much in hearing the publick means, though they know not what true praying, and what true teaching is: they bid you be much in faſting, hearing, and weeping; and if you do ſo, there is no doubt but you ſhall be ſaved; here they make you make brick, and to gather the ſtraw your ſelves.</p>
+            <p>O you poor ſons and daughters of <hi>Adam,</hi> the Lord hath ſeen and heard your affliction!<note place="margin">
+                  <hi>Hoſea</hi> 2.14.</note> He is come to deliver you out of this <hi>Egyptian</hi> bondage, and to bring you into the
+<pb n="2" facs="tcp:42971:3"/>wilderneſs, and there you ſhall ſerve him; for he hath prepared for you ſome <hi>Moſes's,</hi> that ſhall go before you, and lead you into <hi>Canaan,</hi> your land of reſt and peace; <hi>For now I will ariſe, ſaith the Lord, and ſtand up to deliver my people; therefore wo unto the Paſtors that deſtroy and ſcat<g ref="char:EOLhyphen"/>ter my flock,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 23.1, 2.</note> 
+               <hi>and have not viſited them; therefore I will viſite upon you the evil of your doings.</hi> Je. 23.1, 2. <hi>Wo unto you Scriles and Phariſees, hypocrites, for you ſhut up the Kingdom of Hea<g ref="char:EOLhyphen"/>ven againſt men: for ye neither go in your ſelves, neither ſuf<g ref="char:EOLhyphen"/>fer ye them that are entred, to go in. Wo to you blind guides, ye pay Tith-Mint, and Annice, and Cummin, and have neglected the weighty matters of the Law, which is Righteouſneſs, Mercy, and Judgment; Therefore wo unto you falſe Prophets ſaith the Lord, for I have ſeen folly in the Prophets of</hi> Samaria, <hi>they propheſied in Baal, they cauſed my people to err by their lyes, and by their lightneſs; for they are weighed in the ballance of God, and are found too light. The Prieſts preach for hire, and the Prophets divine for money; yet will they lean upon the Lord, and ſay, Is not the Lord among us? no evil can come upon us.</hi> Math. 23,<note place="margin">
+                  <hi>Matth.</hi> 23. <hi>Micah</hi> 3.11. <hi>Zeph.</hi> 3.3, 4.</note> Mich. 3.11. Zeph. 3.3, 4. <hi>Therefore, wo unto you blind guides, for the fierce anger of the Lord is gone forth in fury againſt you: a grievous whirle-winde it ſhall fall grieviouſly upon the head of the wicked: the anger of the Lord ſhall not return until he hath executed Judgment, until he hath performed the thoughts of his heart.</hi> Now in theſe latter days ye ſhall conſider this perfectly, <hi>I have not ſent theſe Pro<g ref="char:EOLhyphen"/>phets, yet they run: and I have not ſpoken unto them, and yet they propheſie; Behold I am againſt the Prophets ſaith the Lord, that ſteal my word, every one from his neighbour, Behold I am againſt the Prophets that uſe their tongues and ſay, thus ſaith the Lord.</hi>
+            </p>
+            <p>You have ſtollen theſe words from your neighbour, and ſo ſpeak from hear-ſay, and not from the mouth of the Lord, <hi>What is the chaff to the wheat? ſaith the Lord,</hi> other
+<pb n="3" facs="tcp:42971:3"/>men have labored in preaching, and writing &amp; you are entred into their labors: or elſe what do you do with your ſtudies full of old books of other mens writings? reading them, ſpending your time in laſineſs; for you muſt have a whole week to ſtudy 2 Sermons out of other mens works adding ſomthing of your own to it, making the people be<g ref="char:EOLhyphen"/>lieve it is the word of God, when indeed it is but the wiſdom of the fleſh. Here you make the people ſpend their mony for <hi>that which is not bread, and their labour for that which ſatisfieth not, Iſa.</hi> 55.2.<note place="margin">
+                  <hi>Iſa.</hi> 55.2.</note> You will not preach without they give you ſo much money by the year, here they ſpend their money. Secondly, You feed them with husks, without the kernel, and they cannot be ſatisfied with your husks; for <hi>what is the chaff to the wheat ſaith the Lord? if they had ſtood in my Counſel, and had cauſed my peo<g ref="char:EOLhyphen"/>ple to hear my Word, then they ſhould have turned them from their evil ways, and from their evil doings.</hi> Jer. 23.<note place="margin">
+                  <hi>Jer.</hi> 23.</note> 
+               <hi>Therefore thus ſaith the Lord, her Prieſts in the midst thereof are like Wolves ravening the prey to ſhed blood, to deſtroy ſouls, to get diſhoneſt gain, her prophets have dawbed them with untempered morter, ſeeing vanity, and deviſing unto them, ſaying, thus ſaith the Lord God, when the Lord hath not ſpoken to them, yet they ſay, the Lord ſaith,</hi> Ezek. 22.27, 28.<note place="margin">
+                  <hi>Ezekiel</hi> 22.27.86. 2 <hi>Theſ.</hi> 1.7. <hi>Zach.</hi> 13 2.</note> Behold the Lord com<g ref="char:EOLhyphen"/>eth in flaming fire, to render vengeance to all his ene<g ref="char:EOLhyphen"/>mies, to burn up all the falſe Prophets and unclean ſpirits, 2 <hi>Theſ.</hi> 1.8. <hi>Zach.</hi> 13.2. For thus ſaith the Lord, <hi>My watchmen are blind, they are all ignorant, they are greedy dogs, which can never have enough,</hi> and <hi>they are ſhep<g ref="char:EOLhyphen"/>herds that cannot underſtand: they all look to their own way, eve<g ref="char:EOLhyphen"/>one for his gain from his quarter:</hi> they ſtand praying in the Synagogue, and are called of men, Maſter;<note place="margin">
+                  <hi>Matth.</hi> 11.27.</note> therefore Chriſt cries, Wo againſt them. <hi>Math.</hi> 23.</p>
+            <p>Secondly, They deny immediat Revelation from Heaven which I and all the Saints have, and do witneſs; there<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:42971:4"/>they deny the Father and the ſon; <hi>For no man knoweth the Father but the Son,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 11.27.</note> 
+               <hi>and he to whomſoever the Son will re<g ref="char:EOLhyphen"/>veal him. Math.</hi> 11.27.</p>
+            <p>Thirdly, They deny the Scripture: for the Scriptures declare, that all the holy men of God in all ages, the Lord made known himſelf to them, by Revelation. Here yee make God mutable and changeable,<note place="margin">
+                  <hi>Mal.</hi> 3.6. <hi>Heb.</hi> 13.6.</note> which is blaſphemy; for ſaith he, <hi>I am God and change not,</hi> and this we witneſs, <hi>Mal.</hi> 3.6. for <hi>He is the ſame to day, yeſterday, and for ever. Heb.</hi> 13.8.</p>
+            <p>Fourthly, They deny perfection to be obtained while creatures live in this body of clay: here alſo ye deny the Scripture, which holds out perfection, to be obtained while the creature lives, or never. <hi>Gen.</hi> 17.1. <hi>Matth.</hi> 5.48. 1 <hi>Pet.</hi> 5.10.</p>
+            <list>
+               <item>Firſt, Ye deny God, <hi>Deut.</hi> 32.4. <hi>Matth.</hi> 5.48. who is perfect in himſelf, and all the Saints are made perfect as they are gathered up into Him. <hi>Gen.</hi> 17.1. <hi>Deut.</hi> 18.13. <hi>Eph.</hi> 4.11, 12, 13. <hi>Heb.</hi> 6.1.</item>
+               <item>Secondly, They deny the enjoyment and life of the Saints and holy men of God, which they were come to, and lived in, and did witneſs the ſame to all the world, <hi>Gen.</hi> 6.9. <hi>Pſalms</hi> 37.38. 1 <hi>Cor.</hi> 2.6. <hi>Phil.</hi> 3.15. here they are lyars and deceivers, and keep poor people in their ſins and filthineſs; for they tell them they ſhall never be per<g ref="char:EOLhyphen"/>fect while they live in this body of clay, and ſo people go on in pride, covetouſneſs and oppreſſion, envy, malice, and bitter cruelty, and contention, lying, ſwearing drun<g ref="char:EOLhyphen"/>kenneſs, luſt and uncleanneſs, with all kind of wicked<g ref="char:EOLhyphen"/>neſs, ſo that none returns from his evil doings; Therefore
+<pb n="5" facs="tcp:42971:4"/>wo, wo unto them, for they go in the way of <hi>Cain,</hi> and are in the error of <hi>Balaam,</hi> who love the wages of unrigh<g ref="char:EOLhyphen"/>teouſneſs, and ſo deny Chriſt who was perfect, and the Apoſtle who ſaid, <hi>as he is, ſo sre we in this world;</hi> for he was perfect, and ſo muſt we be: <hi>and he that hath this hope in him, purifieth himſelf even as he is pure,</hi> 1 <hi>John</hi> 4.17. chap. 3.3. chap. 2.6. <hi>There is a voice of the howling of the Shepherds; for their glory is ſpoiled: a voice of the roaring of young Lyons; for the pride of</hi> Jordan <hi>is ſpoiled. Zech.</hi> 11.3. This is the word of the Lord, <hi>Wo to the Crown of pride, to the drunkards of</hi> E<g ref="char:EOLhyphen"/>phraim, <hi>whoſe glorious beauty is a fading flower,</hi> Iſaiah 28.1. <hi>The Pride of</hi> Iſrael doth teſtifie to his face <hi>therefore ſhall</hi> Iſrael <hi>and</hi> Ephraim <hi>fall in their iniquity:</hi> Judah <hi>alſo ſhall fall with them: they ſhall go with their flocks, and with their heards to ſeek the Lord, but they ſhall not find Him, He hath withdrawn himſelf from them.</hi> Hoſ. 5.5, 6. Therefore my Counſel is, that you would leave off decei<g ref="char:EOLhyphen"/>ving poor ſouls, and let the Lord who is an everlaſting teacher, teach them;<note place="margin">
+                     <hi>Pſa.</hi> 23. <hi>Iſa.</hi> 40.11.</note> for <hi>He will lead them in the paths of Righteouſneſs,</hi> for <hi>Pſalm</hi> 23. <hi>He will lead his flock like a ſhep<g ref="char:EOLhyphen"/>heard, and carry his Lambs in his Arms, and carry them in his boſome, and gently lead them that are with young. Iſa.</hi> 40.11. But as for you he will ſpew you out of his mouth, and ye ſhall be as unſavory ſalt under the foot of men:<note place="margin">
+                     <hi>Jer.</hi> 28.26.</note> becauſe ye have taught rebellion againſt the Lord, <hi>Jer.</hi> 28.26. <hi>And I will gather my People from all places whither ye have driven them, and will ſet ſhepheards over them, which ſhall not be lacking,</hi> ſaith the Lord,<note place="margin">
+                     <hi>Ier.</hi> 3.15.</note> 
+                  <hi>for I will give them Pa<g ref="char:EOLhyphen"/>ſtors according to my own heart,</hi> ſaith the Lord, <hi>Jer.</hi> 3.15. <hi>they ſhall build up the old waſte places, they ſhall raiſe up the former deſolations,</hi> that you and your fathers the Prieſts have made; for <hi>they ſhall be called the Prieſts of the Lord,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 61.4.5.</note> 
+                  <hi>and men ſhall call them the Miniſters of our God. Iſa.</hi> 61.4.6. <hi>They ſhall bring all your brethren for an offering unto the Lord,
+<pb n="6" facs="tcp:42971:5"/>out of all Nations upon Horſes, and Chariots, and Litters, and upon Mules, and upon ſwift beaſts to my holy Mountain</hi> Jeru<g ref="char:EOLhyphen"/>ſalem, <hi>ſaith the Lord; as the Children of</hi> Iſrael <hi>bring an offe<g ref="char:EOLhyphen"/>ring in clean veſſels unto the Houſe of the Lord, I will alſo take of them for Prieſts, and for Levites ſaith the Lord; for New Heavens, and New Earth, which I make, ſhall remain be<g ref="char:EOLhyphen"/>fore me, ſaith the Lord: ſo ſhall your ſeed, and your names re<g ref="char:EOLhyphen"/>main from one new Moon to another: and from one Sabbath to another, ſhall all fleſh come, and worſhip before me ſaith the Lord.</hi> Iſa. 66.20, 21, 22, 23. verſes.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42971:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
